@@ -1,7 +1,9 @@
-_site/
-*.swp
-*.~vsd
-\#*\#
-*~
+_site
+node_modules
+npm-debug.log
 .DS_Store
-Gemfile.lock
+*/.DS_Store
+*/*/.DS_Store
+*.sh
+.vscode
+img/post-bg-login.jpg
